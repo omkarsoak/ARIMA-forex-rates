@@ -1,4 +1,4 @@
-## Time Series Analysis and Forecasting Using ARIMA
+## Time Series Analysis and Forecasting Using ARIMA and LSTM
 For more info see documentation in pdf <br> <br>
 
 ___________________________________________________
